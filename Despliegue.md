@@ -45,7 +45,7 @@ Proceso de Despliegue de la Aplicación Pokedex
 
 Resultado Final
 
-Después de completar todos los pasos, Vercel desplegó automáticamente la aplicación, proporcionándome una URL pública desde la cual se puede acceder a la PokeDex:
+Después de completar todos los pasos, Vercel desplegó automáticamente la aplicación, proporcionándome una URL desde la cual se puede acceder a la PokeDex:
 
 URL de la aplicación:
 https://actividad-pokedex.vercel.app/
