@@ -9,4 +9,4 @@ Registro en Vercel
 3. Seleccioné la opción **"Continuar con GitHub"**.
 4. Autoricé a Vercel para que accediera a mi cuenta de GitHub, permitiendo ver y gestionar mis repositorios.
 5. Elegí el plan gratuito (Free).
-6. Entre a mi cuenta.
+6. Entre a mi cuenta usando mi Github.
